@@ -1,7 +1,5 @@
 # IEE2714 — Tarea 3: filtrado notch y deconvolución regularizada
 
-Autor: Tomás Ferrada Contreras (Pontificia Universidad Católica de Chile, 2° semestre 2026)
-
 Todo el código está en el notebook `Tarea3_IEE2714.ipynb`. Al ejecutarlo de principio a fin se
 reproducen **todas** las figuras y tablas del informe (`Tarea3_IEE2714.pdf`).
 
